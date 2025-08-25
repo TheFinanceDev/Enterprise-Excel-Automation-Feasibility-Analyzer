@@ -6,14 +6,14 @@ A robust and secure Python tool for assessing the automation feasibility of Exce
 
 ## 📋 Table of Contents
 
-- [About The Project](#about-the-project)  
-- [Features](#features)  
-- [Getting Started](#getting-started)  
-- [Usage](#usage)  
-- [Requirements](#requirements)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
+- [About The Project](#🧐-about-the-project)  
+- [Features](#⚙️-features)  
+- [Getting Started](#🚀-getting-started)  
+- [Usage](#🏃-how-to-use)  
+- [Requirements](#📦-requirements)  
+- [Contributing](#🤝-contributing)  
+- [License](#📜-license)  
+- [Contact](#📫-contact) 
 
 ---
 
