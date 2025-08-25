@@ -6,18 +6,18 @@ A robust and secure Python tool for assessing the automation feasibility of Exce
 
 ## 📋 Table of Contents
 
-- [About The Project](#🧐-about-the-project)  
-- [Features](#⚙️-features)  
-- [Getting Started](#🚀-getting-started)  
-- [Usage](#🏃-how-to-use)  
-- [Requirements](#📦-requirements)  
-- [Contributing](#🤝-contributing)  
-- [License](#📜-license)  
-- [Contact](#📫-contact) 
-
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Requirements](#requirements)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- 
 ---
 
-## 🧐 About The Project
+## About The Project
 
 Managing and automating Excel files in large organizations can be complex due to varied file structures, formula intricacies, and process workflows. This tool helps:
 
@@ -31,7 +31,7 @@ Ideal for business analysts, process owners, and automation engineers aiming to 
 
 ---
 
-## ⚙️ Features
+## Features
 
 - ✔ Validates Excel files: formats, access, size  
 - ✔ Detailed sheet and workbook structure analysis  
@@ -45,7 +45,7 @@ Ideal for business analysts, process owners, and automation engineers aiming to 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🏃 How To Use
+## How To Use
 
 ### Interactive Mode
 
@@ -99,7 +99,7 @@ Optional flags:
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.7+  
 - pandas  
@@ -109,7 +109,7 @@ Install missing packages with `pip`.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -123,13 +123,13 @@ Please follow the code style and keep commits clear.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📫 Contact
+## Contact
 
 Enterprise Analytics Team  
 Email: analytics-team@example.com  
