@@ -51,11 +51,11 @@ Ideal for business analysts, process owners, and automation engineers aiming to 
 
 Make sure you have Python 3.7 or newer installed. Then install required packages:
 
-pip install pandas openpyxl
+```pip install pandas openpyxl```
 
 Alternatively, if you provide a `requirements.txt`, install using:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 ---
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 Run the tool without arguments to start interactive CLI:
 
-python excel_automation_analyzer.py
+```python excel_automation_analyzer.py```
 
 
 You will be shown a menu where you can:
@@ -81,7 +81,7 @@ Follow on-screen prompts.
 
 Analyze a specific Excel file directly by providing the path as an argument:
 
-python excel_automation_analyzer.py path/to/your_excel_file.xlsx
+```python excel_automation_analyzer.py path/to/your_excel_file.xlsx```
 
 
 Optional flags:
