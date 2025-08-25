@@ -131,7 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Enterprise Analytics Team  
 [GitHub](https://github.com/TheFinanceDev) | [Linkedin](https://www.linkedin.com/in/abdallahyasir/)
 
 ---
