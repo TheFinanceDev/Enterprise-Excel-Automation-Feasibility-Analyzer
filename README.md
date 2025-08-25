@@ -6,7 +6,7 @@ A robust and secure Python tool for assessing the automation feasibility of Exce
 
 ## 📋 Table of Contents
 
-- [About The Project](#🧐-about-the-project)  
+- [About The Project](#about-the-project)  
 - [Features](#⚙️-features)  
 - [Getting Started](#🚀-getting-started)  
 - [Usage](#🏃-how-to-use)  
@@ -17,7 +17,7 @@ A robust and secure Python tool for assessing the automation feasibility of Exce
 
 ---
 
-## 🧐 About The Project
+## About The Project
 
 Managing and automating Excel files in large organizations can be complex due to varied file structures, formula intricacies, and process workflows. This tool helps:
 
